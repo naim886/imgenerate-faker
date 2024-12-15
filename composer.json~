@@ -12,8 +12,6 @@
         "psr-4": {
             "Naim886\\Imgenerate\\": "src/"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 
 }
