@@ -6,8 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0",
-        "another-vendor/package": "1.*",
-        "naim886/imgenerate-faker": "1.0.0"
+        "another-vendor/package": "1.*"
     },
     "autoload": {
         "psr-4": {
